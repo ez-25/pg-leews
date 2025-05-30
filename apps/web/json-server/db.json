@@ -1,0 +1,10 @@
+{
+  "students": [
+    { "id": 1, "name": "철수", "age": 21 },
+    { "id": 2, "name": "영희", "age": 22 }
+  ],
+  "courses": [
+    { "id": 1, "title": "React 기본", "description": "React 입문 강좌" },
+    { "id": 2, "title": "Next.js 심화", "description": "Next.js 고급 강좌" }
+  ]
+}
